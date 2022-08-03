@@ -1,9 +1,9 @@
-title: Kevin H. Wilson's Webpage
+title: Jacob Derechin's Webpage
 email:
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kevinhayeswilson.com"
+url: "https://jacobderechin.com"
 
 # Build settings
 markdown: kramdown
